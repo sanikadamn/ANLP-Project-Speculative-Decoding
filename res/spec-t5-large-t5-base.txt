@@ -1,0 +1,246 @@
+Source: India and Japan prime ministers meet in Tokyo
+Normal Translation: Die Premierminister von Indien und Japan treffen sich in Tokio
+Time taken: 1.29 seconds
+Speculative Translation: Neuer Gipfel Ministerpräsident Indiens und Japans in Tokio
+Time taken: 1.21 seconds
+Percentage tokens accepted: 70.00%
+Target: Die Premierminister Indiens und Japans trafen sich in Tokio.
+
+Source: India's new prime minister, Narendra Modi, is meeting his Japanese counterpart, Shinzo Abe, in Tokyo to discuss economic and security ties, on his first major foreign visit since winning May's election.
+Normal Translation: Indiens neuer Ministerpräsident Narendra Modi trifft sich in Tokio mit seinem japanischen Amtskollegen Shinzo Abe, um die wirtschaftlichen und Sicherheitsbeziehungen zu erörtern. Er hält den ersten größeren Auslandsbesuch seit seinem Sieg bei den Wahlen im Mai.
+Time taken: 5.88 seconds
+Speculative Translation: Der neued ind Ministerpräsident Narendra Mod trifft sich mit seine japanischem Amtskollegen Shinzo Abe in Tokio, um über wirtschaftliche und sicherheitpolitische Beziehung zu sprechen. Dies ist seinerster großers Auslandbesuch seit dem Wahlsieg im Mai.
+Time taken: 5.83 seconds
+Percentage tokens accepted: 46.73%
+Target: Indiens neuer Premierminister Narendra Modi trifft bei seinem ersten wichtigen Auslandsbesuch seit seinem Wahlsieg im Mai seinen japanischen Amtskollegen Shinzo Abe in Toko, um wirtschaftliche und sicherheitspolitische Beziehungen zu besprechen.
+
+Source: Mr Modi is on a five-day trip to Japan to strengthen economic ties with the third largest economy in the world.
+Normal Translation: Herr Modi befindet sich auf einer fünftägigen Reise nach Japan, um die Wirtschaftsbeziehungen mit der drittgrößten Volkswirtschaft der Welt zu stärken.
+Time taken: 3.09 seconds
+Speculative Translation: Herr Mod reist fünf Tage nach Japan, um die Wirtschaftsbeziehungen mit der drittgrößten Volkswirtschaft der Welt zu stärke.
+Time taken: 2.06 seconds
+Percentage tokens accepted: 69.44%
+Target: Herr Modi befindet sich auf einer fünftägigen Reise nach Japan, um die wirtschaftlichen Beziehungen mit der drittgrößten Wirtschaftsnation der Welt zu festigen.
+
+Source: High on the agenda are plans for greater nuclear co-operation.
+Normal Translation: Ein hoher Punkt auf der Tagesordnung ist die geplante intensivierte nukleare Zusammenarbeit.
+Time taken: 1.77 seconds
+Speculative Translation: Hoch auf der Tagesordnung stehen Pläne für eine verstärkte nukleare Zusammenarbeit
+Time taken: 0.94 seconds
+Percentage tokens accepted: 87.50%
+Target: Pläne für eine stärkere kerntechnische Zusammenarbeit stehen ganz oben auf der Tagesordnung.
+
+Source: India is also reportedly hoping for a deal on defence collaboration between the two nations.
+Normal Translation: Indien hofft auch auf eine Vereinbarung zur Verteidigungszusammenarbeit zwischen den beiden Nationen.
+Time taken: 2.27 seconds
+Speculative Translation: Wegen der wachsenden Zahl der militärischen Aktivitäten in Indien hat sich das Land in denletzten Jahren zu einem wichtigen Wirtschaftsraum entwickelt. Das Landhat sich Lateinamerika zu einem wichtigen Wirtschaftsraum entwickelt.
+Time taken: 3.55 seconds
+Percentage tokens accepted: 65.62%
+Target: Berichten zufolge hofft Indien darüber hinaus auf einen Vertrag zur Verteidigungszusammenarbeit zwischen den beiden Nationen.
+
+Source: Karratha police arrest 20-year-old after high speed motorcycle chase
+Normal Translation: Karratha-Polizei verhaftet 20-jähriger nach einer Motorradjagd
+Time taken: 1.77 seconds
+Speculative Translation: Z kann man für die Polizei in Karrathabitten?
+Time taken: 1.64 seconds
+Percentage tokens accepted: 27.59%
+Target: Polizei von Karratha verhaftet 20-Jährigen nach schneller Motorradjagd
+
+Source: A motorcycle has been seized after it was ridden at 125km/h in a 70km/h zone and through bushland to escape police in the Pilbara.
+Normal Translation: Superbike-Fahrer haben sich in Australien von ihren alten rtlichkeiten abgewandt.
+Time taken: 2.19 seconds
+Speculative Translation: Also,GROSS hat die ersten deutschene Präsidentschaftwahlen in derzweiten Hälfte des Jahres 2009 abgesagt.
+Time taken: 2.44 seconds
+Percentage tokens accepted: 53.33%
+Target: Ein Motorrad wurde beschlagnahmt, nachdem der Fahrer es mit 125 km/h in einer 70 km/h-Zone und durch Buschland gefahren hatte, um der Polizei in Bilbara zu entkommen.
+
+Source: Traffic police on patrol in Karratha this morning tried to pull over a blue motorcycle when they spotted it reaching 125km/h as it pulled out of a service station on Bathgate Road.
+Normal Translation: Während dieser Parade in Karratha hielten die Verkehrspolizisten heute Morgen ein blaues Motorrad, das eine Geschwindigkeit von 125 km/h erreichte, an, als dieses aus einer Tankstelle auf der Bathgate Road herauszog.
+Time taken: 4.67 seconds
+Speculative Translation: Ein blaue Motorrad, das heute Morgen in Karratha Patrouillen durchführe, sah 125 km/h, ein, während sahe e sich aus einer Tankstelle Bathgate Road zurückgezogen.
+Time taken: 5.21 seconds
+Percentage tokens accepted: 45.83%
+Target: Verkehrspolizisten in Karratha versuchten heute morgen, ein blaues Motorrad zu stoppen, nachdem sie es dabei beobachtet hatten, wie es mit 125 km/h eine Tankstelle auf der Bathdate Road verließ.
+
+Source: Police say the rider then failed to stop and continued on to Burgess Road before turning into bushland, causing the officers to lose sight of it.
+Normal Translation: Sie sah sich von einem wachen Polizeibeamten fern, wo sie sagte: "Auf der ersten Straße stürzte ich in die Tore. Ich war zwar darauf vorbereitet, mich vom Fahrer herunterzulassen.
+Time taken: 4.75 seconds
+Speculative Translation: Der Fahrer hat sich dann nichtgehalten und fährt weiter auf Burgess Road, bevor  in Buschland fährt, wodurch die Polizei die Strecke aus den Augen verlorenhat.
+Time taken: 2.62 seconds
+Percentage tokens accepted: 76.60%
+Target: Die Polizei berichtet, dass der Fahrer die Haltesignale dann ignorierte und weiter auf der Burgess Road fuhr, bevor er in das Buschland abbog, wo die Beamten es aus den Augen verloren.
+
+Source: The motorcycle and a person matching the description of the rider was then spotted at a house on Walcott Way in Bulgarra.
+Normal Translation: Die Motorrad und eine Person entsprachen der Beschreibung des Fahrers wurde dann in einem Haus auf dem Walcott Way in Bulgarra.
+Time taken: 2.50 seconds
+Speculative Translation: Das Motorrad und eine Person, die der Beschreibung des Fahrers entspricht, wurden dann in einem Haus auf Walcott Way in Bulgarra gesehen.
+Time taken: 1.64 seconds
+Percentage tokens accepted: 100.00%
+Target: Das Motorrad sowie eine Person, die der Beschreibung des Fahrers entsprach wurden später bei einem Haus im Walcott Way in Bulgarra gesehen.
+
+Source: Karratha Police have charged a 20-year-old man with failing to stop and reckless driving.
+Normal Translation: Die Polizei in Karratha hat einen 20-jährigen Mann wegen Nichtaufhaltens und rücksichtslosem Fahren angeklagt.
+Time taken: 3.00 seconds
+Speculative Translation: Gutes Wetter, freundlich Leute,großes Frühstück, reichhaltige Benützungsmöglichkeiten, freundliches Personal,schickes Zimmer, freundliches Personal, freundliches Personal,guter Service, freundliches Personal, freundliches Personal, freundlichste Atmosphäre, es gibt viele Interessierte, die sich mit dem Wunsch unserer Gäste identifizieren wollen.
+Time taken: 6.66 seconds
+Percentage tokens accepted: 66.39%
+Target: Die Polizei von Karratha beschuldigt einen 20-jährigen Mann der Nichtbeachtung eines Haltesignals sowie rücksichtslosen Fahrens.
+
+Source: He is due to appear in Karratha Magistrates Court on September 23.
+Normal Translation: Er wird am 23. September vor den Magistratsgerichten von Karratha erscheinen.
+Time taken: 1.69 seconds
+Speculative Translation: Er soll am 23. September vor dem Karratha-Justizgericht erscheinen
+Time taken: 0.98 seconds
+Percentage tokens accepted: 88.24%
+Target: Er soll am 23. September vor dem Amtsgericht in Karratha erscheinen.
+
+Source: The motorcycle was seized and impounded for three months.
+Normal Translation: Das Motorrad wurde eingenommen und für drei Monate verwahrt.
+Time taken: 1.28 seconds
+Speculative Translation: Das Motorrad wurde drei Monate lang beschlagnahmt und beschlagnahm.
+Time taken: 1.06 seconds
+Percentage tokens accepted: 82.35%
+Target: Das Motorrad wurde sichergestellt und für drei Monate beschlagnahmt.
+
+Source: George Webster accused of Nairn and Pitlochry hotel rapes
+Normal Translation: George Webster wird der Vergewaltigung in Hotels in Nairn und Pitlochry angeklagt
+Time taken: 2.10 seconds
+Speculative Translation: George Webster angeklagt für Hotelvergewaltigungen in Nair und Pitlochry
+Time taken: 1.28 seconds
+Percentage tokens accepted: 90.91%
+Target: George Webster wegen Hotelvergewaltigungen in Naim und Pitlochry angeklagt
+
+Source: A man is to stand trial accused of raping women at two hotels.
+Normal Translation: Ein Mann wird vor Gericht gestellt, weil er zwei Hotelfrauen vergewaltigt hat.
+Time taken: 1.94 seconds
+Speculative Translation: In der deutschen Zeitung "Folge" hat diedeutsche ZeitungDeutsch-Deutschand eineSerie von Artikel über die deutsche Zeitung "Folge" veröffentlicht. King' s  siebte es in derenglischen Zeitung "Folge" auf den TitelDie deutsche ZeitungFoge
+Time taken: 6.97 seconds
+Percentage tokens accepted: 43.31%
+Target: Ein Mann steht wegen der Vergewaltigung von Frauen in zwei Hotels vor Gericht.
+
+Source: George Webster, 28, faced the charges during a hearing at the High Court in Glasgow.
+Normal Translation: George Webster, 28 Jahre alt, wurde in einer Anhörung vor dem High Court in Glasgow vor Gericht gestellt.
+Time taken: 2.11 seconds
+Speculative Translation: Der 28- George Webster sah sich während einer Anhörung vor dem Obersten Glasgower Ihrerklage ausgesetzt.
+Time taken: 2.68 seconds
+Percentage tokens accepted: 51.02%
+Target: George Webster, 28, wurde die Anklage bei einer Anhörung von dem Obersten Gericht in Glasgow verlesen.
+
+Source: He is alleged to have raped a woman at the Scotland's Hotel in Pitlochry in Perthshire on June 7, 2013.
+Normal Translation: Er soll am 7. Juni 2013 im Scotland’s Hotel in Pitlochry in Perthshire eine Frau vergewaltigt haben.
+Time taken: 2.26 seconds
+Speculative Translation: Die deutsche Zeitungtrifft die Vergewaligung von Frauen Londons an.
+Time taken: 1.75 seconds
+Percentage tokens accepted: 41.94%
+Target: Er wird beschuldigt, am 7. Juni 2013 eine Frau im Scotland's Hotel in Pitlochry in Perthshire vergewaltigt zu haben.
+
+Source: It is claimed Webster attacked her while she was "unconscious, asleep and incapable of giving consent."
+Normal Translation: Seine erste Beziehung entstand mit dessen Mutter, die ihr eine Tochter namens Elizabeth gegeben hat.
+Time taken: 2.10 seconds
+Speculative Translation: Webster hat sich in den letzten Jahren hinter demsein erhol und hat sogar seinenDienst alsVariante der amerikanische Wiederungs- und Vernichtungwaffegehalten.er hat sich in denletzten Jahren ebenfalls angestrengt an deramerikanischen ffentlichkeit zu beteiligen.
+Time taken: 6.79 seconds
+Percentage tokens accepted: 45.60%
+Target: Die Anklage lautet, dass Webster sie angriff, während sie "bewusstlos war, schlief, und kein Einverständnis signalisieren konnte."
+
+Source: Webster is then charged with raping a second woman at the Golf View Hotel in Nairn in the Highlands on May 4, 2014.
+Normal Translation: Webster wird dann angeklagt, eine zweite Frau im Golf View Hotel in Nairn in den Highlands am 4. Mai 2014 vergewaltigt zu haben.
+Time taken: 3.09 seconds
+Speculative Translation: Coucheschaltung oder -stören ist eine wehrlose, gefährlich Strategie, die sowohl die ffentlichkeit als auch die Geschäfte erschwert.
+Time taken: 3.31 seconds
+Percentage tokens accepted: 59.02%
+Target: Webster wird darüber hinaus vorgeworfen, am 4. Mai 2014 eine zweite Frau im Golf View Hotel in Naim im schottischen Hochland vergewaltigt zu haben.
+
+Source: Judge Lady Rae set a trial date for November 17 at the High Court in Edinburgh.
+Normal Translation: Der Richter Lady Rae hat ein Prozeßtermin für den 17. November im High Court in Edinburgh festgelegt.
+Time taken: 1.93 seconds
+Speculative Translation: Mcintyre hat den Prozess am 17. November vor dem Hohen Gerichtshof in Edinburgh gestartet.
+Time taken: 1.66 seconds
+Percentage tokens accepted: 68.97%
+Target: Richterin Lady Rae setzte den Verhandlungstermin für den 17. November am Obersten Gericht in Edinburgh an.
+
+Source: Reconnecting With the Very American Ideal That Labor Rights Are Human Rights
+Normal Translation: Dennoch schließt sich das sehr amerikanische Ideal, wonach es sich bei den Arbeitsrechten um Menschenrechte handelt, wieder an
+Time taken: 2.68 seconds
+Speculative Translation: Die Wiederherstellung des sehramerikanischen Ideals, dass Arbeitsrechte Menschenrechte sind
+Time taken: 1.23 seconds
+Percentage tokens accepted: 80.95%
+Target: Rückbesinnung auf das sehr amerikanische Ideal der Arbeitsrechte als Menschenrechte
+
+Source: Congressmen Keith Ellison and John Lewis have proposed legislation to protect union organizing as a civil right.
+Normal Translation: Der amerikanische Kongressabgeordnete Keith Ellison und John Lewis haben Gesetze zum Schutz der Gewerkschaftsorganisation als Bürgerrecht vorgeschlagen.
+Time taken: 2.75 seconds
+Speculative Translation: Die Kongressabgeordneten Keith Ellison und John Lewis haben Gesetze vorgeschlagen, die diewerkschaftliche Organisation als Bürgerrecht schützen sollen
+Time taken: 1.97 seconds
+Percentage tokens accepted: 75.00%
+Target: Die Kongressabgeordneten Keith Ellison und John Lewis haben einen Gesetzesvorschlag eingebracht, um die Organisation von Gewerkschaften als Bürgerrecht zu etablieren.
+
+Source: "As go unions, so go middle-class jobs," says Ellison, the Minnesota Democrat who serves as a Congressional Progressive Caucus co-chair.
+Normal Translation: "So wie Gewerkschaften gehen, schreiten auch Arbeitsplätze in der Mittelschicht", sagt Ellison, der Demokrat aus Minnesota, der als Ko-Vorsitzender des Progressive Caucus im Kongress dient.
+Time taken: 4.26 seconds
+Speculative Translation: "So wie Gewerkschaften, so gehen auch Arbeitsplätze derschicht", Ellison, der Demokrat aus Minnesota, der als-Co-Vorsitzender des Progressiven Caucu der Kongressparteien fungiert.
+Time taken: 3.90 seconds
+Percentage tokens accepted: 56.94%
+Target: "So wie Gewerkschaften sterben, sterben auch die Mittelklassejobs," sagte Ellison, ein Demokrat aus Minnesota und stellvertretender Vorsitzender des Progressive Caucus im Kongress.
+
+Source: That's why I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+Normal Translation: Daher bin ich stolz, den Employee Empowerment Act mit den bekannten Bürgerrechtler John Lewis vorstellen zu dürfen.
+Time taken: 2.18 seconds
+Speculative Translation: Deshalb bin ich stolz, das Employee Empowerment Act mit dem Bürgerrechts-Ikonen Lewis einführen dürfen.
+Time taken: 2.01 seconds
+Percentage tokens accepted: 65.71%
+Target: Daher stelle ich stolz gemeinsam mit der Bürgerrechtsikone John Lewis das Mitarbeiterermächtigungsgesetz vor.
+
+Source: This ground-breaking legislation will give workers the same legal options for union organizing discrimination as for other forms of discrimination - stopping anti-union forces in their tracks
+Normal Translation: Diese bahnbrechende Gesetzgebung wird den Arbeitnehmern die gleichen gesetzlichen Möglichkeiten für die organisierte Diskriminierung gegeben wie für andere Formen der Diskriminierung - und gewerkschaftsfeindliche Kräfte aufhalten.
+Time taken: 4.50 seconds
+Speculative Translation: Diese bahnbrechendes Gesetz wird Arbeitnehmern die gleichen Rechtsmöglichkeiten für die Diskriminierung durch Gewerkschaften bieten wie für andere Formen der Diskriminierung - und die gewerkschaftsfeind Kräfte aufhalten.
+Time taken: 3.20 seconds
+Percentage tokens accepted: 81.03%
+Target: Dieses bahnbrechende Gesetz gibt Arbeitern die gleichen rechtlichen Möglichkeiten bei Diskriminierung wegen der Organisation von Gewerkschaften wie bei anderen Formen der Diskriminierung - und stoppt so antigewerkschaftlich eingestellte Kräfte.
+
+Source: Amending the National Labor Relations Act to allow workers who face discrimination for engaging in union organizing to sue for justice in the civil courts - and to collect compensatory and punitive damages - is a sound and necessary initiative.
+Normal Translation: Eine nderung des Gesetzes über die nationalen Arbeitsbeziehungen, die Arbeitnehmern, die Diskriminierung aufgrund ihrer Tätigkeit bei Gewerkschaftsorganisationen ausgesetzt sind, Gerechtigkeit bei den Zivilgerichten anstößt - und Entschädigungs- und Sanktionsgeldern einsammelt -, ist eine vernünftige und notwendige Initiative.
+Time taken: 7.48 seconds
+Speculative Translation: Eine nderung des Nationalen Arbeitsrechtsgesetze, das Arbeitnehmern, für die sie sich an Gewerkschaftsorganisationen beteiligen, die Möglichkeit gibt vor denvilrechtliche Gerichten gerichtliche Schritt gegen die Gewerkschaften einzuleiten - und Entschädigungs- Sanktions- und Schadenersatzansprüche einzufordern, ist eine gute und notwendig Initiative.
+Time taken: 7.05 seconds
+Percentage tokens accepted: 51.56%
+Target: Die Ergänzung des nationalen Arbeitsrechtsgesetzes, um eine Möglichkeit für einer Diskriminierung ausgesetzte Arbeitern zur Organisation einer Gewerkschaftsvertretung zu schaffen, um vor einem Zivilgericht um Gerechtigkeit zu klagen - und um Schadensersatz oder Strafgelder zu erhalten - ist eine sinnvolle und notwendige Initiative.
+
+Source: But it in certainly not a radical initiative - at least by American standards.
+Normal Translation: Aber sie ist sicherlich keine radikale Initiative - zumindest nach amerikanischen Maßstäben.
+Time taken: 2.18 seconds
+Speculative Translation: Aber e ist sicherlich - zumindest nach amerikanische Standards  keine radikale Initiative.
+Time taken: 2.34 seconds
+Percentage tokens accepted: 39.53%
+Target: Aber es ist mit Sicherheit keine radikale Initiative - jedenfalls nicht nach amerikanischen Standards.
+
+Source: Indeed, the best way to understand what Ellison, Lewis and the cosponsors of their legislation are proposing is as a reconnection with a very American idea.
+Normal Translation: Tatsächlich besteht das beste Verständnis für Ellison, Lewis und die Unterstützer ihres Gesetzes darin, dass es eine Wiedereinführung einer sehr amerikanischen Idee darstellt.
+Time taken: 3.68 seconds
+Speculative Translation: Tatsächlich ist die beste Art, zu verstehen, was Ellison, Lewis und die Mitverfasser ihrer Gesetze vorschlagen, eine Wiederanbindung an eine sehr amerikanische Idee. B. databasees.
+Time taken: 2.78 seconds
+Percentage tokens accepted: 91.30%
+Target: Tatsächlich ist die beste Art und Weise zum Verständnis dessen, was Ellison, Lewis und die weiteren Sponsoren ihrer Gesetzesvorlage vorschlagen, die Verbindung zurück zu einer sehr amerikanischen Idee.
+
+Source: Despite the battering that unions have taken in recent years - in Wisconsin, Michigan and states across the country - Americans once encouraged countries around the world to embrace, extend and respect labor rights.
+Normal Translation: Trotz der erbitterten Einflüsse, die Gewerkschaften in den letzten Jahren erlitten haben - in Wisconsin, Michigan und anderen Bundesstaaten - haben die Amerikaner einst Länder auf der ganzen Welt ermutigt, die Rechte der Arbeit zu schützen, zu erweitern und zu achten.
+Time taken: 6.36 seconds
+Speculative Translation: Trotz der heftigen Auswirkungen, die Gewerkschaften in den letzten Jahren - in Wisconsin, Michigan und in Bundesstaaten überall im Land- erlitten - haben die Amikaner einst Länder auf der ganzen Welt dazuermutig, diee Arbeitnehmerrechte bevorzugen, ausweiten und respektieren.
+Time taken: 6.13 seconds
+Percentage tokens accepted: 59.46%
+Target: Trotz der Rückschläge, denen die Gewerkschaften in den vergangenen Jahren ausgesetzt waren - in Wisconsin, Michigan und anderen Staaten im ganzen Land - haben Amerikaner einst Länder in aller Welt dazu ermutigt, Arbeitsrechte anzuerkennen, auszuweiten und einzuhalten.
+
+Source: There was a time, within the living memory of millions of Americans, when this country championed democracy, freedom of speech, freedom of the press and the right to organize in the same breath.
+Normal Translation: Es gab eine Zeit, in der Millionen Amerikaner noch in lebendiger Erinnerung waren, als dieses Land Demokratie, Redefreiheit, Pressefreiheit und das Recht auf Organisation im selben Atemzug stand.
+Time taken: 4.02 seconds
+Speculative Translation: Es gab eine Zeit, in der Millionen von Amerikanern noch immer lebten, in der dieses Land Demokratie, Redefreiheit, Pressfreiheit und das Recht auf Organisation im selben Atemzug verteidigte.
+Time taken: 2.93 seconds
+Percentage tokens accepted: 90.57%
+Target: Es gab eine Zeit, an die sich Millionen von Amerikanern noch erinnern, als dieses Land Demokratie, Redefreiheit, Pressefreiheit und das Vereinigungsrecht in einem Atemzug nannte.
+
+
+Average time taken for normal decoding: 3.06 seconds
+Average time taken for speculative decoding: 3.13 seconds
+Average percentage of tokens accepted: 65.75%
+Average speedup over 30 iterations: 0.98x
+
