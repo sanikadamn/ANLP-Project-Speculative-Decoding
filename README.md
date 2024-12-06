@@ -1,6 +1,12 @@
 # ANLP-Project-Speculative-Decoding
+Contributors - Sanika Damle, Sarthak Chittawar, Shashwat Dash
 
-## Models Used
-* Translation - t5-large (738M params) as the verifier (base model)
-* Summarization -
-* Chatbot - gpt2 (124M params) as the generator and gpt2-large (774M params) as the verifier
+![spec_diagram.png](spec_diagram.png)
+
+## Files used
+* `translation_spec_dec.ipynb` -> for implementing basic Speculative Decoding
+* `base_spec_experiments.ipynb` -> for ablations on speculative decoding
+* `llama_spec.ipynb` -> for speculative decoding on a generation task
+* `online_spec_dec.ipynb` -> for implementing Online Speculative Decoding (OSD)
+
+### Done as a part of the course project for the course - Advanced NLP (Monsoon 2024) at IIIT Hyderabad
